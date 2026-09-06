@@ -1,0 +1,1 @@
+Generative AI (Gen AI) is a type of artificial intelligence that creates new content—including text, images, code, and audio—by learning from vast amounts of existing data. Unlike traditional AI that simply analyzes data, Gen AI uses advanced machine learning models to generate completely original, human-like outputs based on user prompts.
