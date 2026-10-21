@@ -1,2 +1,0 @@
-Conclusion
-The experiment shows that two AI methods can modify the same photograph in different ways. CycleGAN is designed for domain-level image translation, while VGG19 Neural Style Transfer is designed to combine the content of one image with the visual style of another. Comparing the three final images makes the difference between domain translation and artistic style transfer easier to observe.
