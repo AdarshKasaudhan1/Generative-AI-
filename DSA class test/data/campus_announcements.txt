@@ -1,0 +1,97 @@
+[CAMPUS NOTICE]
+DATE: November 15, 2026
+DEPARTMENT: Department of Artificial Intelligence
+SUBJECT: GPU Cluster Maintenance and Scheduled Downtime
+DETAILS: The high-performance compute cluster (A100/H100 nodes) in Turing Hall will undergo scheduled firmware upgrades this weekend from 10:00 PM Saturday to 6:00 AM Sunday.
+ACTION REQUIRED: Ensure all long-running training jobs are checkpointed prior to Saturday evening. Jobs running during the maintenance window will be terminated without state recovery.
+
+[CAMPUS NOTICE]
+DATE: November 18, 2026
+DEPARTMENT: Office of Student Affairs
+SUBJECT: Annual University Hackathon Registration Open
+DETAILS: Registrations are officially open for the 48-Hour Generative AI Challenge hosted in the Innovation Hub. Mentors from premier deep tech institutes will judge submissions across multimodal, healthcare, and robotics tracks.
+ACTION REQUIRED: Form teams of 3 to 4 undergraduate or graduate students and submit registration proposals before November 25 through the student portal.
+
+[CAMPUS NOTICE]
+DATE: November 20, 2026
+DEPARTMENT: Central Library Services
+SUBJECT: Extended Reading Room Hours for Midterm Examinations
+DETAILS: In response to student requests, the Ground Floor quiet reading rooms and 24/7 Digital Learning Lab will remain accessible around the clock starting Monday through the conclusion of midterm week.
+ACTION REQUIRED: Carry your valid Student ID Smartcard for biometric turnstile entry past 10:00 PM. No external visitors allowed during night shifts.
+
+[CAMPUS NOTICE]
+DATE: November 22, 2026
+DEPARTMENT: Campus Health & Wellness Center
+SUBJECT: Seasonal Influenza and Booster Vaccination Drive
+DETAILS: A free walk-in immunization clinic will operate on Tuesday and Wednesday from 9:00 AM to 4:00 PM in the Gymnasium Annex. Professional nursing staff will administer certified seasonal vaccines.
+ACTION REQUIRED: Bring your university health insurance card or student identification badge. Wear clothing that permits convenient upper-arm access.
+
+[CAMPUS NOTICE]
+DATE: November 24, 2026
+DEPARTMENT: Department of Computer Science & Engineering
+SUBJECT: Distinguished Guest Lecture by Prof. Elena Rostova
+DETAILS: Renowned computational linguist Prof. Elena Rostova will deliver a keynote address titled "Frontiers in Transformer Reasoning and Mechanistic Interpretability" in the Faraday Auditorium at 3:30 PM.
+ACTION REQUIRED: Pre-registration is mandatory due to limited auditorium seating. Reserve your admission ticket via the CSE event dashboard.
+
+[CAMPUS NOTICE]
+DATE: November 27, 2026
+DEPARTMENT: Campus Security & Transportation Office
+SUBJECT: South Gate Traffic Diversion and Parking Restrictions
+DETAILS: Resurfacing of the southern perimeter access road will commence Thursday morning. The South Gate will be restricted to pedestrian traffic only until Monday afternoon.
+ACTION REQUIRED: Vehicles must enter via the North Boulevard or East Gate. Parking bays adjacent to Block C are reserved exclusively for utility and construction machinery.
+
+[CAMPUS NOTICE]
+DATE: November 30, 2026
+DEPARTMENT: Financial Aid and Scholarship Bureau
+SUBJECT: Merit-Cum-Means Scholarship Application Deadline
+DETAILS: Applications for Spring Semester financial assistance, tuition waivers, and academic excellence grants close strictly at midnight on December 5. Incomplete dossiers will not be reviewed.
+ACTION REQUIRED: Upload income declarations, verified grade transcripts, and faculty recommendation letters directly through the financial services portal.
+
+[CAMPUS NOTICE]
+DATE: December 02, 2026
+DEPARTMENT: Office of Dean (Academic Affairs)
+SUBJECT: Final Examination Timetable and Hall Ticket Distribution
+DETAILS: The finalized examination schedule for all undergraduate engineering and science disciplines has been published on the Academic Information System (AIS).
+ACTION REQUIRED: Download and verify your hall ticket before December 10. Immediately notify the Examination Cell of any timetable overlaps or room allocation discrepancies.
+
+[CAMPUS NOTICE]
+DATE: December 05, 2026
+DEPARTMENT: Career Development & Placement Cell
+SUBJECT: Tier-1 Tech Recruiting Drive: Global Software Conglomerate
+DETAILS: On-campus interviews and technical assessments for graduate software engineering, machine learning research, and cloud infrastructure roles will take place on December 12 and 13.
+ACTION REQUIRED: Upload updated CVs formatted strictly according to placement office standards before Wednesday 5:00 PM. Shortlisted candidates must report in business attire.
+
+[CAMPUS NOTICE]
+DATE: December 08, 2026
+DEPARTMENT: Department of Electronics and Communication
+SUBJECT: Workshop on Embedded Edge AI and TensorRT Optimization
+DETAILS: A hands-on training workshop on deploying lightweight neural networks to microcontrollers and NVIDIA Jetson edge systems will be conducted this Friday in Hardware Lab 3.
+ACTION REQUIRED: Participants should bring laptops with Docker and PyTorch pre-installed. Register via the ECE department portal by Thursday noon.
+
+[CAMPUS NOTICE]
+DATE: December 11, 2026
+DEPARTMENT: University Hostel & Residential Life
+SUBJECT: Winter Break Hostel Vacancy and Luggage Room Storage
+DETAILS: University residence halls will close for the mandatory winter sanitization protocol on December 22 at 6:00 PM and will reopen on January 4 at 8:00 AM.
+ACTION REQUIRED: All residential students must submit travel departure itineraries to their respective warden and deposit valuables in the locked luggage depository rooms.
+
+[CAMPUS NOTICE]
+DATE: December 14, 2026
+DEPARTMENT: Environmental Sustainability Council
+SUBJECT: Campus-Wide E-Waste Collection and Green Recycling Drive
+DETAILS: Old electronics, discarded laptop batteries, redundant motherboards, and defunct cables can be safely deposited at collection bins placed across the Student Center lobby all week.
+ACTION REQUIRED: Ensure all personal hard drives and sensitive electronic storage media are degaussed or wiped prior to disposal.
+
+[CAMPUS NOTICE]
+DATE: December 17, 2026
+DEPARTMENT: Sports Authority & Recreation Complex
+SUBJECT: Inter-Departmental Basketball and Badminton Tournament
+DETAILS: The annual winter athletic tournament kicks off on Monday evening. Matches will be broadcast live on campus television screens and the student union stream.
+ACTION REQUIRED: Department team captains must register starting rosters with the Sports Director by Friday 4:00 PM along with medical fitness clearance certificates.
+
+[CAMPUS NOTICE]
+DATE: December 20, 2026
+DEPARTMENT: Directorate of Research and Innovation
+SUBJECT: Seed Grant Call for Collaborative Interdisciplinary Proposals
+DETAILS: Faculty and post-doctoral scholars are invited to submit joint research proposals bridging artificial intelligence, bioinformatics, and renewable energy storage.
+ACTION REQUIRED: Submit two-page concept proposals and preliminary budget estimates to the Research Office online portal before January 15.

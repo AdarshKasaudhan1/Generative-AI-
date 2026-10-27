@@ -1,0 +1,69 @@
+[PRODUCT: Quantum Neural Interface Mark IV]
+MANUFACTURER: Arasaka Sub-orbital Dynamics
+CATEGORY: Cybernetic Neuro-Prosthetics
+PRICE: 45,000 Eurodollars (Credits)
+SPECS: 1024-channel direct cortical array, sub-picosecond synaptic bridging, cryo-cooled bio-mesh sheath.
+DESCRIPTION: Designed for corporate black-ops operators and deep-net netrunners. Translates conscious thought patterns directly into optical machine code, bypassing physical motor delays entirely.
+
+[PRODUCT: Ghost-Signal Optical Camouflage Cloak]
+MANUFACTURER: Kiroshi Optical Solutions
+CATEGORY: Personal Tactical Gear
+PRICE: 28,500 Eurodollars (Credits)
+SPECS: Micro-refractive metamaterial tiles, 99.8% photon diffraction, 120-minute lithium-sulfur capacitor pack.
+DESCRIPTION: Bends ambient visible light and infrared spectrums seamlessly across the wearer's silhouette. Renders the operator virtually invisible to both organic eyes and thermal drone surveillance arrays.
+
+[PRODUCT: Neuro-Stim Caffeinated Dermal Patches]
+MANUFACTURER: Petrochem Consumer Biomed
+CATEGORY: Pharmaceuticals & Nootropics
+PRICE: 120 Eurodollars / Box of 30
+SPECS: Transdermal sustained-release matrix, synthetic dopamine pre-cursors, taurine micro-beads.
+DESCRIPTION: Provides uninterrupted 18-hour cognitive alertness without cardiovascular jitters or post-shift depressive crashes. Endorsed by freelance code-jockeys and corporate night-watch personnel.
+
+[PRODUCT: Sub-Dermal Titanium Bone Lattice]
+MANUFACTURER: Kang Tao Defense Industries
+CATEGORY: Bio-Armor Augmentation
+PRICE: 62,000 Eurodollars (Credits)
+SPECS: Grade-9 sintered titanium honeycomb lattice, bonded to human skeletal femur and rib structures.
+DESCRIPTION: Reinforces human structural rigidity against high-caliber ballistics, kinetic concussions, and severe vehicular collisions. Absorbs up to 4500 Joules of localized impact force.
+
+[PRODUCT: Monowire Tactical Garrote & Whip]
+MANUFACTURER: Militech Weapon Systems
+CATEGORY: Concealed Weaponry
+PRICE: 18,900 Eurodollars (Credits)
+SPECS: Single-molecule carbon filament, weighted ceramic spool, fingertip electromagnetic release solenoid.
+DESCRIPTION: An ultra-thin cutting filament capable of slicing through military-grade ballistic composite armor and reinforced vehicle chassis with negligible mechanical resistance.
+
+[PRODUCT: Cyber-Deck Cyberdeck Raven-9000]
+MANUFACTURER: Zetatech Microelectronics
+CATEGORY: Netrunning & Cyberwarfare Rig
+PRICE: 34,000 Eurodollars (Credits)
+SPECS: Dual-core cold-fusion processor, 64 Terabytes cryogenic RAM, integrated ICE-breaker firmware.
+DESCRIPTION: Compact cyberdeck engineered for aggressive ICE penetration and network node infiltration. Features hardware-isolated kill-switches to protect netrunner neural synapses from hostile feedback spikes.
+
+[PRODUCT: Synthetic Liver Bio-Filter Matrix]
+MANUFACTURER: Biotechnica Global
+CATEGORY: Medical & Organ Replacement
+PRICE: 16,500 Eurodollars (Credits)
+SPECS: Cloned genetically-modified xenotissue, activated carbon nanotubes, anti-rejection immunosuppressant pumps.
+DESCRIPTION: Completely neutralizes synthetic neurotoxins, low-grade industrial alcohol, heavy metal contaminants, and urban atmospheric poisons within seconds of bloodstream absorption.
+
+[PRODUCT: Smart-Grip Biometric Targeting Link]
+MANUFACTURER: Tsunami Arms Corporation
+CATEGORY: Cyberware Linkage
+PRICE: 8,400 Eurodollars (Credits)
+SPECS: Palm-implanted magnetic transceiver, ballistics trajectory predictive co-processor.
+DESCRIPTION: Synchronizes smart-firearm micro-thrusters directly with the user's optical targeting reticle. Automatically guides gyro-stabilized smart bullets around urban obstacles and ballistic shields.
+
+[PRODUCT: Drone-Scout Hummingbird Stealth Micro-UAV]
+MANUFACTURER: Arasaka Autonomous Recon
+CATEGORY: Surveillance Hardware
+PRICE: 11,200 Eurodollars (Credits)
+SPECS: Biomimetic flapping-wing propulsion, ultrasound echolocation, encrypted burst-transmission transponder.
+DESCRIPTION: A thumb-sized recon drone capable of navigating ventilation ducts, keyholes, and elevator shafts. Streams high-definition multispectral feeds directly into the handler's neural ocular HUD.
+
+[PRODUCT: EMP-Shielded Memory Vault Data-Shard]
+MANUFACTURER: Orbital Air Logistics
+CATEGORY: High-Security Data Storage
+PRICE: 4,200 Eurodollars (Credits)
+SPECS: Diamondoid storage substrate, Faraday cage encapsulation, biometric self-destruct thermite coil.
+DESCRIPTION: Military-grade storage shard resilient against intense electromagnetic pulses, ionizing radiation, and physical crushing. Detonates a microscopic thermite charge if unauthorized decryption is detected.
